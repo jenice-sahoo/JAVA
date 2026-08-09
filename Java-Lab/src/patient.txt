@@ -1,0 +1,4 @@
+Patient ID: 201
+Patient Name: Sarah
+Age: 25
+Diagnosis: Fever
